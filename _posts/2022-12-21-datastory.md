@@ -13,7 +13,7 @@ The last decade has been marked by emancipating and feminist movements. While ma
 Before digging in the depth of the movies industry, our first step is to look at the global representation of women, and its evolution accross decades. To set the stage, it is interesting to look at roles repartition between men and women, first in the whole dataset, and then across time : 
 
 
-![a](/img/wordcloud.jpg)
+![a](/img/newplot.png)
 
 
 
