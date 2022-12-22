@@ -38,8 +38,8 @@ Once again, a clear tendency appears, and verifies our fears. Let’s not lose h
 ![a](https://pauldfepfl.github.io/DatastoryNonNansLand/img/Genres.png)
 ![a](https://pauldfepfl.github.io/DatastoryNonNansLand/img/US_India_pie.png)
 
-
-![wc3](https://pauldfepfl.github.io/DatastoryNonNansLand/img/wordcloudAV.jpg) 
-![wc2](https://pauldfepfl.github.io/DatastoryNonNansLand/img/wordcloudPV.jpg) 
-![wc](https://pauldfepfl.github.io/DatastoryNonNansLand/img/wordcloudIA.jpg) 
-![wc](https://pauldfepfl.github.io/DatastoryNonNansLand/img/wordcloudRA.jpg) 
+![wc3](/img/wordcloudRA.png) 
+![wc3](https://pauldfepfl.github.io/DatastoryNonNansLand/img/wordcloudAV.png) 
+![wc2](https://pauldfepfl.github.io/DatastoryNonNansLand/img/wordcloudPV.png) 
+![wc](https://pauldfepfl.github.io/DatastoryNonNansLand/img/wordcloudIA.png) 
+![wc](https://pauldfepfl.github.io/DatastoryNonNansLand/img/wordcloudRA.png) 
