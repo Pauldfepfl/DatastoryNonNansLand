@@ -11,10 +11,10 @@ As it has been the case in many work domains and highlighted as a societal inequ
 
 To set the stage, let's look at the proportion of roles played by women in the whole set of movies. 
 
-![general_pie](https://pauldfepfl.github.io/siteadatest/img/general_pie.jpeg)
+![general_pie](https://pauldfepfl.github.io/DatastoryNonNansLand/img/general_pie.jpeg)
 
 Rejoicing, right? Obviously, something is wrong, but this ratio must have evolved between decades, and more recent ratios must tend to equity! Let's look at it to fix our minds: 
-![cnt_prop_gen](https://pauldfepfl.github.io/siteadatest/img/Count_proportion_general.jpeg) 
+![cnt_prop_gen](https://pauldfepfl.github.io/DatastoryNonNansLand/img/Count_proportion_general.jpeg) 
 
  Ouch. Even if we might observe an increasing trend, statistically there is no significant difference between decades. This hurts, but women’s representation does not only pass through numbers, as it does not take into account a lot of aspects. One of these aspects, interesting to watch, is age distribution. As we may imagine, women tended to be represented younger than men, but numbers are better than words, look at this:
 
@@ -23,15 +23,15 @@ Rejoicing, right? Obviously, something is wrong, but this ratio must have evolve
 Once again, a clear tendency appears, and verifies our fears. Let’s not lose hope here, we might observe an evolution through decades ! We can see that throughout the decades, the women’s age distribution is quite shifted to the left. It tends to get better, but overall, actresses are younger on average than their male colleagues. This highlights quite a significant attribute that sticks to female character, they are younger and this gives already a hierarchical ascendancy to their masculine fellows and might be a sign of the well-renown female hyper sexualization in graphical  [LUOYING YANG]. We can see also attest that the number of female characters is smaller, let’s dive into that:
 
 {% include_relative Count_proportion_general.html %}
-![wc3](https://pauldfepfl.github.io/siteadatest/img/wordcloud3.jpg) 
-![wc2](https://pauldfepfl.github.io/siteadatest/img/wordcloud2.jpg) 
-![wc](https://pauldfepfl.github.io/siteadatest/img/wordcloud.jpg) 
+![wc3](https://pauldfepfl.github.io/DatastoryNonNansLand/img/wordcloud3.jpg) 
+![wc2](https://pauldfepfl.github.io/DatastoryNonNansLand/img/wordcloud2.jpg) 
+![wc](https://pauldfepfl.github.io/DatastoryNonNansLand/img/wordcloud.jpg) 
 
-![b](https://pauldfepfl.github.io/siteadatest/img/Count_proportion_genres.jpeg)
-![a](https://pauldfepfl.github.io/siteadatest/img/Count_proportion_geographical.jpeg)
-![a](https://pauldfepfl.github.io/siteadatest/img/action_pie.jpeg)
+![b](https://pauldfepfl.github.io/DatastoryNonNansLand/img/Count_proportion_genres.jpeg)
+![a](https://pauldfepfl.github.io/DatastoryNonNansLand/img/Count_proportion_geographical.jpeg)
+![a](https://pauldfepfl.github.io/DatastoryNonNansLand/img/action_pie.jpeg)
 
-![a](https://pauldfepfl.github.io/siteadatest/img/horror_pie.jpeg)|![d](https://pauldfepfl.github.io/siteadatest/img/indian_pie.jpeg)
+![a](https://pauldfepfl.github.io/DatastoryNonNansLand/img/horror_pie.jpeg)|![d](https://pauldfepfl.github.io/DatastoryNonNansLand/img/indian_pie.jpeg)
 
 
-![c](https://pauldfepfl.github.io/siteadatest/img/romance_pie.jpeg)|![a](https://pauldfepfl.github.io/siteadatest/img/us_pie.jpeg)
+![c](https://pauldfepfl.github.io/DatastoryNonNansLand/img/romance_pie.jpeg)|![a](https://pauldfepfl.github.io/DatastoryNonNansLand/img/us_pie.jpeg)
