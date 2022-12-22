@@ -2,34 +2,32 @@
 layout: post
 title:  "Datastory"
 date:   2022-12-21 17:56:05 +0100
-categories: jekyll update
 background: '/img/Actress_pic.jpg'
 ---
-The last decade has been marked by emancipating and feminist movements. While many inequalities subsist to this day, women’s rights have progressed, along with mentalities. In this context, one could assess if before the last decade, a trend of improved women’s representation was translated in the film industry during the last fifty to a hundred years, and how this representation itself has evolved (i.e., the way women are depicted, and their relative importance compared to male characters). Firstly, it would be interesting to study women’s representation across many movies using different characteristics throughout the last century, combining meta-datas about the movies, their characters, and their summaries’ language analysis. Then, one could study in more detail and compare different movie genres to further gain insight on women’s representation and evaluate its homogeneity across the film industry. Lastly, one could use the movies’ countries of origin to assess progress in this representation in different world regions.
+As it has been the case in many work domains and highlighted as a societal inequality in the past years, the lack of representation of women was put in the spotlight by emancipating and feminist movements. As a result, looking at the film industry as a reflection of society across time and space, it is possible to observe trends and specificities of female characters to understand the social evolution of women’s representation. Indeed, the film industry is a product of the spectators’ expectations and social norms. However, it also impacts the viewer and can participate in popularizing new scenarios and characters, which can have on the long term a social impact. This enables identifying whether these movements were preceded by an underlying improvement of women’s condition as reflected in the film industry or whether these movements marked a societal gap. The evolution of women’s representation can be observed under three different scopes: the character’s traits such as age, their presence in the movie industry related to the number of female characters, and finally, the role given to female characters and their involvement in the plot.  
 
 
 ##### Global representation of women in the movie industry
 
-Before digging in the depth of the movies industry, our first step is to look at the global representation of women, and its evolution accross decades. To set the stage, it is interesting to look at roles repartition between men and women, first in the whole dataset, and then across time : 
+To set the stage, let's look at the proportion of roles played by women in the whole set of movies. 
 
+![general_pie](https://pauldfepfl.github.io/siteadatest/img/general_pie.jpeg)
 
-![a](https://pauldfepfl.github.io/siteadatest/img/newplot.png)
+Rejoicing, right? Obviously, something is wrong, but this ratio must have evolved between decades, and more recent ratios must tend to equity! Let's look at it to fix our minds: 
+![cnt_prop_gen](https://pauldfepfl.github.io/siteadatest/img/Count_proportion_general.jpeg) 
 
-
-
-
-As we can see, there is a clear difference in roles repartition, it is thus interesting to see how this inequality distributes across decades : 
+ Ouch. Even if we might observe an increasing trend, statistically there is no significant difference between decades. This hurts, but women’s representation does not only pass through numbers, as it does not take into account a lot of aspects. One of these aspects, interesting to watch, is age distribution. As we may imagine, women tended to be represented younger than men, but numbers are better than words, look at this:
 
 {% include_relative age_distribution.html %}
 {% include_relative Count_proportion_general.html %}
 ![wc3](https://pauldfepfl.github.io/siteadatest/img/wordcloud3.jpg) 
 ![wc2](https://pauldfepfl.github.io/siteadatest/img/wordcloud2.jpg) 
 ![wc](https://pauldfepfl.github.io/siteadatest/img/wordcloud.jpg) 
-![a](https://pauldfepfl.github.io/siteadatest/img/Count_proportion_general.jpeg) 
+
 ![b](https://pauldfepfl.github.io/siteadatest/img/Count_proportion_genres.jpeg)
 ![a](https://pauldfepfl.github.io/siteadatest/img/Count_proportion_geographical.jpeg)
 ![a](https://pauldfepfl.github.io/siteadatest/img/action_pie.jpeg)
-![a](https://pauldfepfl.github.io/siteadatest/img/general_pie.jpeg)
+
 ![a](https://pauldfepfl.github.io/siteadatest/img/horror_pie.jpeg)|![d](https://pauldfepfl.github.io/siteadatest/img/indian_pie.jpeg)
 
 
