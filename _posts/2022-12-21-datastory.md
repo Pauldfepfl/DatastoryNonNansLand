@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Datastory"
+title:  "A story of women's representation in the movie industry"
 date:   2022-12-21 17:56:05 +0100
 background: '/img/Actress_pic.jpg'
 ---
@@ -19,6 +19,9 @@ Rejoicing, right? Obviously, something is wrong, but this ratio must have evolve
  Ouch. Even if we might observe an increasing trend, statistically there is no significant difference between decades. This hurts, but women’s representation does not only pass through numbers, as it does not take into account a lot of aspects. One of these aspects, interesting to watch, is age distribution. As we may imagine, women tended to be represented younger than men, but numbers are better than words, look at this:
 
 {% include_relative age_distribution.html %}
+
+Once again, a clear tendency appears, and verifies our fears. Let’s not lose hope here, we might observe an evolution through decades ! We can see that throughout the decades, the women’s age distribution is quite shifted to the left. It tends to get better, but overall, actresses are younger on average than their male colleagues. This highlights quite a significant attribute that sticks to female character, they are younger and this gives already a hierarchical ascendancy to their masculine fellows and might be a sign of the well-renown female hyper sexualization in graphical  [LUOYING YANG]. We can see also attest that the number of female characters is smaller, let’s dive into that:
+
 {% include_relative Count_proportion_general.html %}
 ![wc3](https://pauldfepfl.github.io/siteadatest/img/wordcloud3.jpg) 
 ![wc2](https://pauldfepfl.github.io/siteadatest/img/wordcloud2.jpg) 
