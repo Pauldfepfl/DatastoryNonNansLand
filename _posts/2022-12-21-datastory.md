@@ -21,3 +21,15 @@ Before digging in the depth of the movies industry, our first step is to look at
 As we can see, there is a clear difference in roles repartition, it is thus interesting to see how this inequality distributes across decades : 
 
 {% include_relative age_distribution.html %}
+{% include_relative Count_proportion_general.html %}
+![a](https://pauldfepfl.github.io/siteadatest/img/Count_proportion_general.jpeg) 
+![b](https://pauldfepfl.github.io/siteadatest/img/Count_proportion_genres.jpeg)
+![a](https://pauldfepfl.github.io/siteadatest/img/Count_proportion_geographical.jpeg)
+![a](https://pauldfepfl.github.io/siteadatest/img/action_pie.jpeg)
+![a](https://pauldfepfl.github.io/siteadatest/img/general_pie.jpeg)
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![a](https://pauldfepfl.github.io/siteadatest/img/horror_pie.jpeg)|![d](https://pauldfepfl.github.io/siteadatest/img/indian_pie.jpeg)
+
+
+![c](https://pauldfepfl.github.io/siteadatest/img/romance_pie.jpeg)|![a](https://pauldfepfl.github.io/siteadatest/img/us_pie.jpeg)
