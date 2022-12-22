@@ -22,13 +22,13 @@ As we can see, there is a clear difference in roles repartition, it is thus inte
 
 {% include_relative age_distribution.html %}
 {% include_relative Count_proportion_general.html %}
+![wc2](https://pauldfepfl.github.io/siteadatest/img/wordcloud2.jpg) 
+![wc](https://pauldfepfl.github.io/siteadatest/img/wordcloud.jpg) 
 ![a](https://pauldfepfl.github.io/siteadatest/img/Count_proportion_general.jpeg) 
 ![b](https://pauldfepfl.github.io/siteadatest/img/Count_proportion_genres.jpeg)
 ![a](https://pauldfepfl.github.io/siteadatest/img/Count_proportion_geographical.jpeg)
 ![a](https://pauldfepfl.github.io/siteadatest/img/action_pie.jpeg)
 ![a](https://pauldfepfl.github.io/siteadatest/img/general_pie.jpeg)
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
 ![a](https://pauldfepfl.github.io/siteadatest/img/horror_pie.jpeg)|![d](https://pauldfepfl.github.io/siteadatest/img/indian_pie.jpeg)
 
 
