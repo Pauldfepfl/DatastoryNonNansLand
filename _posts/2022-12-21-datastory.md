@@ -22,6 +22,7 @@ As we can see, there is a clear difference in roles repartition, it is thus inte
 
 {% include_relative age_distribution.html %}
 {% include_relative Count_proportion_general.html %}
+![wc3](https://pauldfepfl.github.io/siteadatest/img/wordcloud3.jpg) 
 ![wc2](https://pauldfepfl.github.io/siteadatest/img/wordcloud2.jpg) 
 ![wc](https://pauldfepfl.github.io/siteadatest/img/wordcloud.jpg) 
 ![a](https://pauldfepfl.github.io/siteadatest/img/Count_proportion_general.jpeg) 
