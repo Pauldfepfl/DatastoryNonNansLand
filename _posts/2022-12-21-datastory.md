@@ -9,9 +9,11 @@ As it has been the case in many work domains and highlighted as a societal inequ
 
 ##### Global representation of women in the movie industry
 
+{% include_relative word_proportion_general.html %}
+{% include_relative word_proportion_genres.html %}
 To set the stage, let's look at the proportion of roles played by women in the whole set of movies. 
 
-![general_pie](https://pauldfepfl.github.io/DatastoryNonNansLand/img/general_pie.jpeg)
+![general_pie](https://pauldfepfl.github.io/DatastoryNonNansLand/img/general_pie.svg)
 
 Rejoicing, right? Obviously, something is wrong, but this ratio must have evolved between decades, and more recent ratios must tend to equity! Let's look at it to fix our minds: 
 ![cnt_prop_gen](https://pauldfepfl.github.io/DatastoryNonNansLand/img/Count_proportion_general.jpeg) 
@@ -29,9 +31,6 @@ Once again, a clear tendency appears, and verifies our fears. Let’s not lose h
 
 ![b](https://pauldfepfl.github.io/DatastoryNonNansLand/img/Count_proportion_genres.jpeg)
 ![a](https://pauldfepfl.github.io/DatastoryNonNansLand/img/Count_proportion_geographical.jpeg)
-![a](https://pauldfepfl.github.io/DatastoryNonNansLand/img/action_pie.jpeg)
+![a](https://pauldfepfl.github.io/DatastoryNonNansLand/img/Genres.png)
+![a](https://pauldfepfl.github.io/DatastoryNonNansLand/img/US_India_pie.png)
 
-![a](https://pauldfepfl.github.io/DatastoryNonNansLand/img/horror_pie.jpeg)|![d](https://pauldfepfl.github.io/DatastoryNonNansLand/img/indian_pie.jpeg)
-
-
-![c](https://pauldfepfl.github.io/DatastoryNonNansLand/img/romance_pie.jpeg)|![a](https://pauldfepfl.github.io/DatastoryNonNansLand/img/us_pie.jpeg)
