@@ -29,7 +29,7 @@ Once again a clear tendency appears, and confirms our intuition. We can also loo
 
 Respective examples could be:
 To explain those three 3 metrics, in the following sentences *kill* can take different values: 
-- Mary has *killed* Dr. Jones ![JONES](/img/LES_JONES)(agent verb)
+- Mary has *killed* Dr. Jones (agent verb)
 - Mary was *killed* by Dr. Jones (patient verb)
 - Mary is a *killer* (attribute)
 
@@ -55,9 +55,20 @@ The diversity of the dataset could have covered these subtle differences. Indeed
 
 ##### Analysis by genre
 
+![a](https://pauldfepfl.github.io/DatastoryNonNansLand/img/Genres.png)
 
-{% include_relative word_proportion_geograph2.html %}
-{% include_relative word_proportion_genres1.html %}
+![a](https://pauldfepfl.github.io/DatastoryNonNansLand/img/age_genre.svg)
+
+{% include_relative word_proportion_genres.html %}
+
+![wc](https://pauldfepfl.github.io/DatastoryNonNansLand/img/wordcloudRA.png)
+
+
+##### Geographical analysis
+
+![a](https://pauldfepfl.github.io/DatastoryNonNansLand/img/Count_proportion_geographical.svg)
+
+![a](https://pauldfepfl.github.io/DatastoryNonNansLand/img/age_geograph.svg)
 
 
 {% include_relative Count_proportion_general.html %}
@@ -66,12 +77,12 @@ The diversity of the dataset could have covered these subtle differences. Indeed
 ![wc](https://pauldfepfl.github.io/DatastoryNonNansLand/img/wordcloud.jpg) 
 
 ![b](https://pauldfepfl.github.io/DatastoryNonNansLand/img/Count_proportion_genres.jpeg)
-![a](https://pauldfepfl.github.io/DatastoryNonNansLand/img/Count_proportion_geographical.jpeg)
-![a](https://pauldfepfl.github.io/DatastoryNonNansLand/img/Genres.png)
+
+
 ![a](https://pauldfepfl.github.io/DatastoryNonNansLand/img/US_India_pie.png)
 
 ![wc3](/img/wordcloudRA.png) 
  
  
 ![wc](https://pauldfepfl.github.io/DatastoryNonNansLand/img/wordcloudIA.png) 
-![wc](https://pauldfepfl.github.io/DatastoryNonNansLand/img/wordcloudRA.png) 
+ 
