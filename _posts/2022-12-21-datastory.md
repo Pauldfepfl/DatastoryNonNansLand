@@ -132,4 +132,5 @@ To answer our initial question: How has the representation of female characters 
 [2] The 2010s the decade women fought back, Forbes. URL https://www.forbes.com/sites/lizelting/2019/12/20/the-2010s-the-decade-women-fought-back/?sh=68c5546421ad
 
 
-[3] LUOYING YANG
+[3] “Hot, Black Leather, Whip”: The (De)evolution of Female Protagonists in Action Cinema, 1960–2014 - Caroline Heldman, Laura Lazarus Frankel, Jennifer Holmes, 2016 [WWW Document], n.d. URL https://journals.sagepub.com/doi/full/10.1177/2374623815627789 (accessed 12.23.22).
+
