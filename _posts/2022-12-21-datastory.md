@@ -55,34 +55,54 @@ The diversity of the dataset could have covered these subtle differences. Indeed
 
 ##### Analysis by genre
 
+As the movie industry is very diverse, women’s representation might be very different from one movie to another. For example, which female character first comes to your mind when you think about an action movie, and how does it compare to a typical romantic female character? In this context, we propose to study if our previous observations on the whole cinema industry are conserved across the different movie genres. As many movies belong to several genres at a time, we chose to analyze three movies genres that are as independent from each other as possible, i.e. Action, Horror and Romance. First, let’s look at the different female characters proportions in each genre:
 ![a](https://pauldfepfl.github.io/DatastoryNonNansLand/img/Genres.png)
+
+Even though not all genres display the same proportions of female characters, women are once again strongly under-represented, especially in action movies. Then, we can have a look at the other aspects of women’s representation to see if they also differ according to the genre, starting by the age distributions of the female and male actors.
 
 ![a](https://pauldfepfl.github.io/DatastoryNonNansLand/img/age_genre.svg)
 
+Women are invariably younger than their colleagues. However, the situation is not the same among genres, with romance being the only genre with a real improvement, trying to bridge this gap in the past hundred years.
+Finally, it is interesting to watch how women’s description varies across genres.
+
 {% include_relative word_proportion_genres.html %}
 
+Once again, separating by genres shows that looking at the general data can be deceiving. Looking at the word distribution by character, we can see that the women in action movies receive significantly fewer words than male characters. Even though there is an increase in women’s importance in the plots, it stays relatively small compared to romantic movies, in which it seems intuitive to give similar relative importance to women and men.
+Knowing that the number of words evolve in different manners according to the movie genre, we can once again assess the words associated with women:
+
+
 ![wc](https://pauldfepfl.github.io/DatastoryNonNansLand/img/wordcloudRA.png)
+
+Interesting, isn’t it? As expected, the lexical fields differ from one movie genre to another. Here, we can see an overall similarity across time, but also between female and male characters. Even if female characters are underrepresented as shown above, we can see that in the 2000s action movies seem to be depicting similarly female and male characters. We notice larger words such as ‘kill’ and ‘tell’, as well as the apparition of words such as ‘leave’, ‘take’, ‘save’, ‘help’ and ‘meet’ compared to 1970s movies. 
+
+On the other hand, we can see that words in romance movies vary less through time and are consistent between genders. It is in line with our previous findings that romance movies show the most equal results. Indeed, we do not see the appearance of top words to the extent of action movies but rather the evolution and relevance of some of them such as ‘find’, ‘make’, ‘decide’ which increased and were already present in the 1940s and also in the male word cloud.
 
 
 ##### Geographical analysis
 
+Until now, our analysis depicts a rather sad picture concerning the representation of women in the movie industry. Our intuition is that not every country presents the same gender inequalities. Therefore, we looked at movies produced in the United States (US) and in India, to see if women representation is homogeneous all around the world.  
+First, we can quantitatively assess the relative women’s representation. To do so, let’s look at the overall count of female characters in Indian movies by decade, compared to movies produced in the US. As one can see, there are more female characters in the US due to the fact that our dataset contained more movies produced there. The proportions of women however have only slightly changed, with a small increase trend for the last decades.
+
+
 ![a](https://pauldfepfl.github.io/DatastoryNonNansLand/img/Count_proportion_geographical.svg)
+
+We now know that the proportion of women is similar in both countries, around 35%. Age distribution of female actresses in both countries remains to be seen. Note that since we are comparing countries that might have very different demographics, we also included the life expectancy throughout the last century for each country to allow a proper comparison of the average actresses' age.
 
 ![a](https://pauldfepfl.github.io/DatastoryNonNansLand/img/age_geograph.svg)
 
+Whereas the average male and female actors' ages do not change significantly throughout the last century in the US, where the life expectancy is always above 60 years old, the average Indian actors and actresses’ age increases along decades, following the rapidly increasing life expectancy from 1920 to 1960. As soon as the life expectancy catches up to 50 years old in the 1970s (reached in the 1920s for the US) the average age of actors and actresses reaches plateau. Even though the population is aging, the film industry seems consistently attached to having relatively young persons on the screen, and even younger females. It is worth mentioning that the difference in average age in the US (although clearly visible) is still smaller than in Indian movies.  
 
-{% include_relative Count_proportion_general.html %}
-![wc3](https://pauldfepfl.github.io/DatastoryNonNansLand/img/wordcloud3.jpg) 
-![wc2](https://pauldfepfl.github.io/DatastoryNonNansLand/img/wordcloud2.jpg) 
-![wc](https://pauldfepfl.github.io/DatastoryNonNansLand/img/wordcloud.jpg) 
+Knowing that the relative presence of female and male actors might not be representative of their respective characters’ importance, we performed a last language analysis. As one can see, the percentage of words allocated to female characters in American movies slightly varies over the decades, but there is no significant changes over the whole centuries, female characters being described with only around 40% of the total descriptive words. However, there is a significant diminution of the percentages of words used to describe women in Indian movies, going against the trend of increasing female characters’ presence.
 
-![b](https://pauldfepfl.github.io/DatastoryNonNansLand/img/Count_proportion_genres.jpeg)
+{% include_relative word_proportion_geograph.html %}
 
+We have seen that women’s representation follows different trends according to genres. The preceding analysis shows that the origin of the movie also has an impact on the type of word used compared to the overall analysis. Once more, due to the major part of the movies in the dataset originating from the US, general results could have hidden underlying effects. Let’s have a look!
 
-![a](https://pauldfepfl.github.io/DatastoryNonNansLand/img/US_India_pie.png)
-
-![wc3](/img/wordcloudRA.png) 
- 
- 
 ![wc](https://pauldfepfl.github.io/DatastoryNonNansLand/img/wordcloudIA.png) 
+
+It is hard to miss the words ‘daughter’ and ‘marry’ which were central in the Indian 1960s. In turn, the US resembles, as expected, the overall analysis. Indian female characters’ evolution is the most striking we’ve seen so far amongst all word clouds.
+Indeed, the words ‘daughter’ and ‘marry’ are significantly reduced to leave room for independence-related words such as ‘decide’, ‘begin’, ‘ask’ and ‘think’. We can see that the Indian word clouds greatly shifted towards words used to depict male characters in general. Finally, we also notice to a lesser extent an evolution in American movies, with more active words such as ‘decide’, ‘discover’ and ‘explain’.
+We can see that the Indian film industry has made undeniable progress and got closer to the Hollywood’s standards of considering women. Women are not yet considered equally to men in the plots.
+
+
  
