@@ -68,7 +68,7 @@ As the movie industry is very diverse, women’s representation might be very di
 
 Although not all genres display the same proportions of female characters, women are once again strongly under-represented, especially in action movies. Then, we can have a look at the other aspects of women’s representation to see if they also differ according to the genre, starting by the age distributions of the female and male actors.
 
-![a](https://pauldfepfl.github.io/DatastoryNonNansLand/img/age_genre.svg)
+![a](https://pauldfepfl.github.io/DatastoryNonNansLand/img/age_genre.png)
 
 Women are invariably younger than their colleagues. However, the situation is not the same among genres, with romance being the only genre with a real improvement, trying to bridge this gap in the past hundred years.
 Finally, it is interesting to watch how women’s description varies across genres.
@@ -100,7 +100,7 @@ First, we can quantitatively assess the relative women’s representation. To do
 
 We now know that the proportion of women is similar in both countries, around 35%. Age distribution of female actresses in both countries remains to be seen. Note that since we are comparing countries that might have very different demographics, we also included the life expectancy throughout the last century per country to allow a proper comparison of the average actresses' age.
 
-![a](https://pauldfepfl.github.io/DatastoryNonNansLand/img/age_geograph.svg)
+![a](https://pauldfepfl.github.io/DatastoryNonNansLand/img/age_geograph.png)
 
 The average male and female actors' ages do not change significantly throughout the last century in the US, where the life expectancy is always above 60 years old. On the other hand, the average Indian actors' and actresses’ age increases over decades, following the rapidly rising life expectancy from 1920 to 1960. As soon as the life expectancy reaches 50 years old in the 1970s (reached in the 1920s for the US) the average age of actors and actresses reaches a plateau. Even though the population is aging, the film industry seems consistently attached to having relatively young persons on the screen, and even younger females. It is worth mentioning that the difference in average age in the US (although clearly visible) is still smaller than in Indian movies.  
   
