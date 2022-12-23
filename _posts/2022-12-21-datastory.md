@@ -100,7 +100,7 @@ First, we can quantitatively assess the relative women’s representation. To do
 
 We now know that the proportion of women is similar in both countries, around 35%. Age distribution of female actresses in both countries remains to be seen. Note that since we are comparing countries that might have very different demographics, we also included the life expectancy throughout the last century per country to allow a proper comparison of the average actresses' age.
 
-![a](https://pauldfepfl.github.io/DatastoryNonNansLand/img/age_geograph.png)
+![a](https://pauldfepfl.github.io/DatastoryNonNansLand/img/age_geo.png)
 
 The average male and female actors' ages do not change significantly throughout the last century in the US, where the life expectancy is always above 60 years old. On the other hand, the average Indian actors' and actresses’ age increases over decades, following the rapidly rising life expectancy from 1920 to 1960. As soon as the life expectancy reaches 50 years old in the 1970s (reached in the 1920s for the US) the average age of actors and actresses reaches a plateau. Even though the population is aging, the film industry seems consistently attached to having relatively young persons on the screen, and even younger females. It is worth mentioning that the difference in average age in the US (although clearly visible) is still smaller than in Indian movies.  
   
@@ -126,6 +126,10 @@ To answer our initial question: How has the representation of female characters 
 
  
 
-[1] https://www.womengoingbeyond.org/post/milestones-for-feminism-from-the-last-decade
-[2] https://www.forbes.com/sites/lizelting/2019/12/20/the-2010s-the-decade-women-fought-back/?sh=68c5546421ad
+[1] Our Favorite Milestones for Women This Decade [WWW Document], n.d. . Ellevest. URL https://www.ellevest.com/magazine/disrupt-money/women-milestones-2010s (accessed 12.23.22).
+
+
+[2] The 2010s the decade women fought back, Forbes. URL https://www.forbes.com/sites/lizelting/2019/12/20/the-2010s-the-decade-women-fought-back/?sh=68c5546421ad
+
+
 [3] LUOYING YANG
