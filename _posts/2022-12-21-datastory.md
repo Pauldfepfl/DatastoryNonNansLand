@@ -64,7 +64,7 @@ Even though it is subtle, we notice an evolution in words used to describe women
 
 As the movie industry is very diverse, women’s representation might be very different from one movie to another. Try to think, which female character first comes to your mind when you visualize an action movie, and how does it compare to a typical romantic female character? In this context, we propose to study if our previous observations on the whole cinema industry are conserved across the different movie genres. As many movies belong to several genres at a time, we chose to analyze three movie genres that are as independent from each other as possible, i.e., Action, Horror, and Romance. First, let’s look at the different female characters proportions in each genre:
 
-![a](https://pauldfepfl.github.io/DatastoryNonNansLand/img/pie_genre.png)
+![a](https://pauldfepfl.github.io/DatastoryNonNansLand/img/Genres.png)
 
 Although not all genres display the same proportions of female characters, women are once again strongly under-represented, especially in action movies. Then, we can have a look at the other aspects of women’s representation to see if they also differ according to the genre, starting by the age distributions of the female and male actors.
 
